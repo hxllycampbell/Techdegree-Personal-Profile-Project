@@ -139,7 +139,7 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 30%;
   border: 3px solid black;
   transition: all .5s;
 }
@@ -221,8 +221,8 @@ a.social {
   opacity: .4;
   transition: all .5s;
 }
-a.instagram {
-  background-image: url(Images/instagram.png);
+a.github {
+  background-image: url(Images/github.png);
 }
 a.treehouse {
   background-image: url(Images/treehouse.png);
