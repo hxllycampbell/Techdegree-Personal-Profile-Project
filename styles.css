@@ -190,6 +190,10 @@ ul.skills {
   background: #B56659;
 }
 
+.strike {
+  text-decoration: line-through;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
